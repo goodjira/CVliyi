@@ -61,7 +61,7 @@ st.markdown('''
 ''')
 
 st.markdown('**BUSINESS INSIGHTS ANALYST**, BECIS (Bangkok),                 Dec20-Now')
-st.markdown('**The only `business (data) analyst` supporting a whole organization across `7` countries in different green energy product lines in terms of `data platform`, `database`, `BI reports`, and `data insights`.**')
+st.markdown('**The only `business (data) analyst` supporting a whole organization across `8` countries in different green energy product lines in terms of `data platform`, `database`, `BI reports`, and `data insights`.**')
 st.markdown('''
 - Build a reliable platform using Bubble.io and Power Apps for all departments in the organization e.g. Business Development, Operation, Finance, Project Management, Engineering.
 - Build sustainable Power BI reports e.g. company-wide KPI, Sales Pipeline, Operating reports.
@@ -151,8 +151,8 @@ st.markdown('''
 ##### Data science
 ''')
 st.markdown('''
-  •	Practical Data Science Specialization by AWS (online)
-  •	IBM Data Science Professional Certificate (online)  
+    - Practical Data Science Specialization by AWS (online)
+    - IBM Data Science Professional Certificate (online)  
 ''')
 st.markdown('''
 ##### Actuarial

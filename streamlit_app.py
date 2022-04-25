@@ -131,7 +131,7 @@ st.text('    - Thai (beginner)')
 st.markdown('''
 ##### Programming
 ''')
-st.text('    - Microsoft Power Platform')
+st.text('    - Microsoft Power Platform (Power BI, Power Automate, Power Apps, Power Agent)')
 st.text('    - Microsoft Dynamics 365')
 st.text('    - AWS')
 st.text('    - Bubble.io')

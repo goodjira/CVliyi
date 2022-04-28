@@ -155,8 +155,9 @@ st.markdown('''
 st.markdown('''
     - Practical Data Science Specialization by AWS (online) https://www.coursera.org/account/accomplishments/specialization/certificate/BJP2VR6HAF94
     - IBM Data Science Professional Certificate (online)  
+    - Python for Everybody Specialization https://www.coursera.org/account/accomplishments/specialization/certificate/WFQVSP7W8R64
 ''')
-txt('**Practical Data Science Specialization by AWS (online)**, [link](https://youtube.com/codingprofessor/)')
+
 st.markdown('''
 ##### Actuarial
 ''')

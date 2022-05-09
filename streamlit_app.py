@@ -11,8 +11,7 @@ st.write('''
 ##### *CV* 
 ''')
 
-#image = Image.open('MicrosoftTeams-image (61).jpg')
-#st.image(image, width=150)
+
 
 st.markdown('## Contact', unsafe_allow_html=True)
 st.info('''

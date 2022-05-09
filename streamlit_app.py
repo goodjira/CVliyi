@@ -140,6 +140,7 @@ st.markdown('''
 st.text('    - Microsoft Power Platform (Power BI, Power Automate, Power Apps, Power Agent)')
 st.text('    - Microsoft Dynamics 365')
 st.text('    - AWS (RDS, Lambda, EC2, SageMaker, S3)')
+st.text('    - Microsoft Dataverse')
 st.text('    - Bubble.io')
 st.text('    - Python')
 st.text('    - SQL(MySQL, Oracle, MS SQL server)')

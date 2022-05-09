@@ -19,6 +19,7 @@ st.info('''
 - Contact Number: +66 63 650 8798 
 - meensky54@gmail.com.
 - Location: Bangkok.
+- CV link: https://share.streamlit.io/goodjira/cvliyi/main
 ''')
 
 #####################

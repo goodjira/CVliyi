@@ -66,11 +66,11 @@ st.markdown('''
 st.markdown('**BUSINESS INSIGHTS ANALYST**, BECIS (Bangkok),                 Dec20-Now')
 st.markdown('**The only `business (data) analyst` supporting whole organization across `8` countries in different green energy product lines in terms of `data platform`, `database`, `BI reports`, and `data insights`.**')
 st.markdown('''
-- Build a reliable platform using Bubble.io, Power Apps and Dynamics 365 for all departments in the organization e.g. Business Development, Operation, Finance, Project Management, Engineering.
+- Build a reliable platform using Bubble.io, Power Apps for all departments in the organization e.g. Business Development, Operation, Finance, Project Management, Engineering.
 - Define and collect required information and maintain database. eg. web scraping, MySQL, Microsoft dataverse, Microsoft dataflow.
 - Build sustainable Power BI reports e.g. company-wide KPI, Sales Pipeline, Operating reports.
 - Analyze data and provide business insights to top management using Power BI and Python.
-- Migrate different platforms into a single Customer Relationship Management (CRM) platform as well as maintain the platform.
+- Migrate different platforms into a single Customer Relationship Management (Dynamics 365 CRM) platform as well as maintain the platform.
 - Proactively look for new approaches to constantly improve current workflows and systems.  
 ''')
 

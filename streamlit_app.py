@@ -142,11 +142,13 @@ st.text('    - Microsoft Dynamics 365')
 st.text('    - AWS (RDS, Lambda, EC2, SageMaker, S3)')
 st.text('    - Bubble.io')
 st.text('    - Python')
-st.text('    - SQL')
+st.text('    - SQL(MySQL, Oracle, MS SQL server)')
+st.text('    - Microsoft Office (Excel, Power Point, Word)')
 #st.text('    - Power BI')
 st.text('    - Zapier')
 st.text('    - Prophet')
 st.text('    - MG-ALFA')
+st.text('    - SAS Data Step')
 
 
 #####################
